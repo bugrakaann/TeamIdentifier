@@ -7,6 +7,5 @@ Damage control: Players cannot give damage to their teammates, promoting collabo
 Enhanced gameplay: The plugin encourages players to work together, creating a more cooperative and enjoyable gaming experience.
 
 # Installation
-Download the latest release from the releases page.
 Extract the contents of the archive into your Rust server's oxide/plugins directory.
 Start your Rust server.
