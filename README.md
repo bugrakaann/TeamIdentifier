@@ -1,6 +1,6 @@
 # TeamIdentifier - Rust Server Plugin 🎮
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/main/bugrakaann/TeamIdentifier)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/bugrakaann/TeamIdentifier)
 
 TeamIdentifier is a Rust server plugin designed to enhance gameplay by promoting team collaboration among players. Players can join one of four teams: Green, Red, Orange, or Blue, and work together to advance their team's objectives.
 
